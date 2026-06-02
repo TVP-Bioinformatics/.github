@@ -6,23 +6,24 @@ We develop and maintain analytical frameworks for studying metabolic disease, ad
 
 ---
 
-## 🔬 Core Research Areas
-
-- **Metabolic disease trajectories**  
-  Continuous and discrete modelling of disease progression (e.g. MASLD)
+## Core Research Areas
 
 - **Adipose tissue biology**  
   Brown and white adipocyte differentiation and signalling networks
 
-- **Multi-omics integration**  
-  Transcriptomics, single-cell RNA-seq, and systems-level analysis
+- **Metabolic disease trajectories**  
+  Continuous and discrete modelling of disease progression (e.g. MASLD)
 
 - **Computational modelling of cellular states**  
   Machine learning and statistical frameworks for biological state inference
 
+- **Multi-omics integration**  
+  Transcriptomics, single-cell RNA-seq, and systems-level analysis
+
+
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### MASLD disease trajectory modelling
 Continuous trajectory inference and machine learning-based stratification of metabolic disease progression.
@@ -38,7 +39,7 @@ Interactive tool for exploring MHPS-derived datasets and visualisations.
 
 ---
 
-## 🧰 Shared Infrastructure
+## Shared Infrastructure
 
 - Standardised RNA-seq and scRNA-seq analysis pipelines  
 - Reusable plotting and statistical functions  
@@ -47,7 +48,7 @@ Interactive tool for exploring MHPS-derived datasets and visualisations.
 
 ---
 
-## 📁 Repository Principles
+## Repository Principles
 
 We follow a simple set of principles:
 
@@ -58,7 +59,7 @@ We follow a simple set of principles:
 
 ---
 
-## 🧑‍🔬 Contributing
+## Contributing
 
 All members of the TVP laboratory are encouraged to contribute:
 
@@ -71,7 +72,7 @@ If you are unsure where something belongs, open an issue or ask for guidance.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 New users should start with:
 
@@ -81,7 +82,7 @@ New users should start with:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Maintained by the TVP Bioinformatics team (Toni Vidal-Puig laboratory).  
 For questions, please contact the computational biology leads within the group.
