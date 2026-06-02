@@ -23,22 +23,6 @@ We develop and maintain analytical frameworks for studying metabolic disease, ad
 
 ---
 
-## Featured Projects
-
-### MASLD disease trajectory modelling
-Continuous trajectory inference and machine learning-based stratification of metabolic disease progression.
-
-### Adipocyte signalling (BMP4 / BMP9 axis)
-Analysis of signalling pathways regulating adipogenesis and metabolic programming.
-
-### MHPS framework
-Computational tools and analysis workflows for internal TVP datasets and modelling approaches.
-
-### MHPS Explorer
-Interactive tool for exploring MHPS-derived datasets and visualisations.
-
----
-
 ## Shared Infrastructure
 
 - Standardised RNA-seq and scRNA-seq analysis pipelines  
