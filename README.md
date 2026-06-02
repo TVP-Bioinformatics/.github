@@ -1,4 +1,4 @@
-# 🧬 TVP-Bioinformatics
+# TVP-Bioinformatics
 
 Computational biology and bioinformatics resources for the TVP laboratory (Toni Vidal-Puig group).
 
