@@ -25,7 +25,7 @@ We develop and maintain analytical frameworks for studying metabolic disease, ad
 
 ## Shared Infrastructure
 
-- Standardised RNA-seq and scRNA-seq analysis pipelines  
+- Standardised RNA-seq, scRNA-seq, and Spatial Transcriptomics analysis pipelines  
 - Reusable plotting and statistical functions  
 - Project templates for reproducible analysis  
 - Lab-wide code utilities and helper scripts  
